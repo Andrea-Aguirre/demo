@@ -15,3 +15,8 @@ TaskFlow is a fictional task management application.
 ## Development Notes
 
 This repository is used for testing GitHub Issues, Pull Requests, and task synchronization.
+
+## Upcoming Features
+
+- Dark mode support
+- Customizable user preferences
